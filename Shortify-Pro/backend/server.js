@@ -24,6 +24,7 @@ if (!process.env.JWT_SECRET) {
 }
 
 connectDB();
+console.log("Mongo URI loaded:", !!process.env.MONGODB_URI);
 
 const app = express();
 const httpServer = createServer(app);
