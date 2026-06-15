@@ -46,6 +46,11 @@ Premium Full-Stack URL Shortener SaaS Platform.
 - **Backend**: Deploy on Render with `MONGODB_URI` and `JWT_SECRET`.
 - **Frontend**: Deploy on Vercel with `VITE_API_URL` pointing to backend Render URL.
 
-## Acknowledgement
+## Project Demo Video
+
+Watch the project demo here:
+https://youtu.be/8KENoUcXZiY?si=sQaCwxXAjnusj64Q
+
+---
 
 This project is a part of a hackathon run by https://katomaran.com
